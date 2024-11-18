@@ -38,7 +38,7 @@ The application can be deployed and accessed through the provided link. Below ar
 
 - Developer: Vuong Luu
 - GitHub: https://github.com/vluu11/Kanbanly
-- Deployment: 
+- Deployment: https://kanbanly.onrender.com
 
 ## License
 
